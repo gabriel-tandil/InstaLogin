@@ -9,7 +9,6 @@
     "author": "Gabriel Alvarez",
     "license": "MIT",
     "dependencies": {
-        "asyncawait": "^3.0.0",
         "console-stamp": "0.2.9",
         "inquirer": "7.1.0",
         "instagram-private-api": "^1.39.2"
