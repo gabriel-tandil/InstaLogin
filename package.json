@@ -1,0 +1,16 @@
+{
+    "name": "InstaLogin",
+    "version": "1.0.0",
+    "description": "A Instagram login test app",
+    "main": "run.js",
+    "scripts": {
+        "test": "node run.js"
+    },
+    "author": "Gabriel Alvarez",
+    "license": "MIT",
+    "dependencies": {
+        "console-stamp": "0.2.9",
+        "instagram-private-api": "^1.39.2",
+        "inquirer":"7.1.0",
+    }
+}
